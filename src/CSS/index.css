@@ -77,6 +77,10 @@ main div.container #reCap {
     color: #a4a4a4;
 }
 
+main footer {
+    background-color: #000 !important;
+}
+
 main footer #telefone {
     color: #a4a4a4;
 }
